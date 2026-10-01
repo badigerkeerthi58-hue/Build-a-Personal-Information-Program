@@ -1,0 +1,16 @@
+=== Personal Information Profile ===
+Enter your name: Keerthi
+Enter your age: 21
+Enter your email: keerthi@example.com
+Enter your phone number: 9876543210
+Enter your city: Vijayapura
+Enter your course: Electronics and Communication Engineering
+
+--- Personal Profile ---
+Name   : Keerthi
+Age    : 21
+Email  : keerthi@example.com
+Phone  : 9876543210
+City   : Vijayapura
+Course : Electronics and Communication Engineering
+-------------------------
